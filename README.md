@@ -1,4 +1,6 @@
-# This Project has 2 parts!
+# Airbnb price prediction model 
+
+##   This Project has 2 parts!
 
 ## 1. First is used to see how will randomForest and base linear regression behave and accuarcy of the same.
 
